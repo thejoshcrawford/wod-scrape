@@ -1,0 +1,14 @@
+{
+  "name": "wod-scrape",
+  "version": "1.0.0",
+  "description": "Scrape all the main site wods from Beyond the Whiteboard",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Crawford",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.10.6"
+  }
+}
