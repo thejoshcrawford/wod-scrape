@@ -1,0 +1,26 @@
+{ totalWeight: 474, // 19%
+  totalTime: 1257, // 50%, 62% 
+  totalRounds: 250, // 31%, 38%
+  totalReps: 129,
+  totalDistance: 5,
+  notscored: 1 }
+
+{ 'weightlifting/sets': 471,
+  twentyOne: 178,
+  'monostructural/sets': 127,
+  roundsForTime: 559,
+  'deathby/reps': 26,
+  amreps: 45,
+  repsTime: 61,
+  forTime: 299,
+  amrap: 216,
+  bookends: 13,
+  fgb: 33,
+  'deathby/weight': 2,
+  timeEachRound: 25,
+  tabata: 28,
+  'single/emom': 4,
+  'multiple/emom': 1,
+  'gymnastics/sets': 23,
+  amrapRepeats: 4,
+  amrapBuyIn: 1 }
