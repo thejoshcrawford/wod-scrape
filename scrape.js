@@ -306,8 +306,32 @@ function getTheRepSchemes() {
     console.log(sortedRounds);    
 }
 
+function getAmraps() {
+    var wods = JSON.parse(fs.readFileSync('wods.json').toString())
+        .filter(function (wod) {
+            return wod.prescription.type === 'amrap' ||
+                wod.prescription.scoring === 'amreps';
+        })
+    //.slice(0, 20)
+        ;
+
+    var amrapTimes = wods.map(function (wod) {
+        return wod.prescription.time.value/60;
+    }).reduce(function (acc, curr) {
+        if (typeof acc[curr] == 'undefined') {
+            acc[curr] = 1;
+        } else {
+            acc[curr] += 1;
+        }
+
+        return acc;
+    }, {});
+
+    console.log(amrapTimes);
+}
+
 //scrapeUntilEmpty(previousMonth);
 // scrapeAllPages();
-getTheRepSchemes();
+getAmraps();
 //getTheScoringTypes();
-//getPrescriptionTypes();sortedRounds
+//getPrescriptionTypes();sortedRoundsgetAmraps

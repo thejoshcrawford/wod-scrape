@@ -1,0 +1,127 @@
+By round
+
+//  { "scheme": [21,15,9], "total": 98 },
+//  { "scheme": [15,12,9], "total": 8 },
+//  { "scheme": [9,7,5], "total": 6 },
+//  { "scheme": [12,9,6], "total": 4 },
+//  { "scheme": [9,6,3], "total": 3 },
+//  { "scheme": [30,20,10], "total": 2 },
+
+//  { "scheme": [12,9,6,3], "total": 1 },
+//  { "scheme": [27,21,15,9], "total": 2 },
+
+//  { "scheme": [10,8,6,4,2], "total": 1 },
+//  { "scheme": [15,12,9,6,3], "total": 2 },
+//  { "scheme": [50,40,30,20,10], "total": 12 },
+//  { "scheme": [21,18,15,12,9], "total": 1 },
+//  { "scheme": [30,25,20,15,10], "total": 1 }
+
+//  { "scheme": [30,25,20,15,10,5], "total": 2 },
+//  { "scheme": [21,15,9,9,15,21], "total": 1 },
+
+//  { "scheme": [21,18,15,12,9,6,3], "total": 17 },
+
+//  { "scheme": [10,9,8,7,6,5,4,3,2,1], "total": 12 },
+  
+ 
+  Weight by rep scheme by round  172
+  Weight by rep scheme by exercise or even 777
+   
+  Distances
+  1mi - 17
+  2mi - 2
+  5mi - 1
+  100m - 33
+  200m - 50
+  250m - 4
+  400m - 115
+  500m - 39
+  750m - 5
+  800m - 64
+  1000m - 31
+  10k - 1
+  5k - 5
+  3k - 1
+  2k - 2
+  
+  Double unders
+  10du - 1
+  12du - 1
+  15du - 2
+  18du - 1
+  20du - 8
+  21du - 3
+  24du - 2
+  25du - 1
+  27du - 1
+  30du - 7
+  35du - 2
+  40du - 3
+  45du - 2
+  50du - 21
+  75du - 1
+  90du - 1
+  100du - 8
+  200du - 2
+  
+  By exercise 
+  
+  { "scheme": ["50","40","30","20","10"], "total": 4 },
+  { "scheme": ["30","40","50","60","70"], "total": 4 },
+  { "scheme": ["5","5","4","4","3","3","2","2","1","1"],  "total": 4 },
+  { "scheme": ["70","60","50","40","30"], "total": 3 },
+  { "scheme": ["21","21","18","18","15","15","12","12","9","9","6","6","3","3"],  "total": 3 },
+  { "scheme": ["10","15","20","25","30","35"], "total": 2 },
+  { "scheme": ["25","20","15","10","5"], "total": 2 },
+  { "scheme": ["3","3","6","6","9","9","12","12","15","15","18","18","21","21"], "total": 2 },
+  
+  { "scheme": ["20","30","40","50"], "total": 18 },
+  { "scheme": ["5","10","15","20"], "total": 2 },
+  { "scheme": ["15","12","9","6"], "total": 2 },
+  { "scheme": ["40","30","20","10"], "total": 2 },
+  { "scheme": ["3","5","7","9"], "total": 2 },
+  
+  { "scheme": ["5","10","15"], "total": 53 },    
+  { "scheme": ["2","4","8"], "total": 13 },
+  { "scheme": ["12","9","6"], "total": 11 },    
+  { "scheme": ["3","5","7"], "total": 8 },  
+  { "scheme": ["30","20","10"], "total": 5 },  
+  { "scheme": ["21","15","9"], "total": 4 }, 
+  { "scheme": ["4","8","12"], "total": 4 },  
+  { "scheme": ["3","6","9"], "total": 3 }, 
+  { "scheme": ["21","15","9"], "total": 2 },
+  { "scheme": ["9","6","3"], "total": 2 }, 
+  { "scheme": ["15","10","5"], "total": 2 },  
+  { "scheme": ["10","20","30"], "total": 2 },
+  { "scheme": ["15","20","30"], "total": 2 },  
+  { "scheme": ["15","12","9"], "total": 2 },  
+  { "scheme": ["50","40","30"], "total": 2 },
+  
+  { "scheme": ["20","15"], "total": 2 },
+  { "scheme": ["10","15"], "total": 2 },
+  { "scheme": ["50","25"], "total": 2 },
+  { "scheme": ["30","20"], "total": 2 }, 
+  { "scheme": ["30","15"], "total": 3 },
+  { "scheme": ["15","21"], "total": 5 },
+  { "scheme": ["15","30"], "total": 6 },
+  { "scheme": ["5","10"], "total": 6 },
+  { "scheme": ["30","25"], "total": 6 },
+  { "scheme": ["10","20"], "total": 8 },
+  { "scheme": ["50","25"], "total": 4 },
+ 
+  { "scheme": ["30"], "total": 67 },
+  { "scheme": ["50"], "total": 58 },
+  { "scheme": ["100"], "total": 26 },
+  { "scheme": ["10"], "total": 41 },
+  { "scheme": ["15"], "total": 48 },
+  { "scheme": ["75"], "total": 8 },
+  { "scheme": ["150"], "total": 6 },
+  { "scheme": ["21"], "total": 25 },
+  { "scheme": ["12"], "total": 5 },
+  { "scheme": ["5"], "total": 9 },
+  { "scheme": ["40"], "total": 2 },
+  { "scheme": ["20"], "total": 6 }
+  { "scheme": ["7"], "total": 10 },
+  { "scheme": ["45"], "total": 2 },
+  { "scheme": ["25"], "total": 11 },
+  { "scheme": ["24"], "total": 2 },
